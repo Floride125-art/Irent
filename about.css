@@ -1,0 +1,59 @@
+.details{
+    text-align:center;
+    color:white;
+    font-family:sans-serif;
+    font-size: medium;
+}
+.pabout{
+    text-align:justify;
+}
+.pabout1{
+    text-align:justify;
+}
+.formCont{
+    width:50%;
+    padding:20px;
+    box-sizing:border-box;
+    background:white;
+    margin:auto;
+}
+lebel{
+    color:black;
+    font-weight:bold;
+}
+form{
+    padding:5%;
+    box-shadow:2px 2px 5px black;
+    background-color:grey;
+}
+input{
+    width:80%;
+    padding:12px 20px;
+    margin:8px 0;
+    border:1px solid gray;
+}
+textarea{
+    width:80%;
+    padding:12px 20px;
+    margin:8px 0;
+    height:100px;
+    border:1px solid gray;
+}
+.sendsh{
+    font-weight:bold;
+    background:RGB(128, 0, 0);
+    border-radius: 20px;
+    color:white;
+}
+.advs{
+    margin-top:-370px;
+}
+.cupas{
+    width:15%;
+    height:35%;
+}
+.nals{
+    
+    margin-left:72.5%;
+    height:20%;
+}

@@ -1,0 +1,347 @@
+.img1{
+    width:50px;
+    height:50px;
+    margin-top:15px;
+    margin-left:400px;
+    
+}
+h2{
+   color:white;
+   margin-left:20px;
+   font-weight:bold;
+   
+
+     
+}
+body{
+    background-image:url('https://cdn.homedit.com/wp-content/uploads/2017/05/Taiwan-residence-with-colorblocked-decor-accents.jpg');
+    background-repeat: no-repeat;
+    background-size:100%;
+   
+    
+}
+.container{
+    display:flex;
+    margin-left:150px;
+    margin-right:100px;
+    background-color:black;
+    opacity:0.5;
+    padding:25px;
+    
+}
+.para1{
+    color:white;
+    margin-left:380px;
+    margin-top:10px;
+    font-weight:bold; 
+    font-style:italic;
+    font-family: Lucida;
+}
+.menu{
+    padding:35px;
+}
+.home{
+    text-decoration:none;
+    margin-left:300px;
+    background:black;
+    padding:10px;
+    font-size:20px;
+    color:white;
+    opacity:0.7;
+    border-radius:20px;
+}
+.about{
+    color:white;
+    text-decoration:none;
+    margin-left:150px;
+    background:black;
+    padding:10px;
+    font-size:20px;
+    opacity:0.7;
+    border-radius:20px;
+}
+.services{
+    color:white;
+    text-decoration:none;
+    margin-left:150px;
+    background:black;
+    padding:10px;
+    font-size:20px;
+    opacity:0.7;
+    border-radius:20px;
+
+}
+.contact{
+    color:white;
+    text-decoration:none;
+    margin-left:150px;
+    background:black;
+    padding:10px;
+    font-size:20px;
+    opacity:0.7;
+    border-radius:20px;
+    
+}
+.details{
+    background-color:black;
+    opacity:0.9;
+    padding:50px;
+    margin-left:200px;
+    margin-right:150px;
+
+}
+.img2{
+    width:400px;
+    height:300px;
+   
+}
+.img3{
+    width:420px;
+    height:300px;
+    margin-left:50px;
+}
+.rent1{
+    color:white;
+    background:rgb(255,69,0);
+    margin-right:650px;
+    padding:10px;
+    border-radius:10px;
+    margin-top:-5px;
+}
+.rent1b{
+    color:white;
+    background:rgb(255,69,0);
+    margin-right:485px;
+    padding:10px;
+    border-radius:10px;
+    margin-top:-5px;
+    margin-left:290px;
+    margin-top:-53px;
+}
+.rent2{
+    color:white;
+    background:rgb(255,69,0);
+    margin-right:195px;
+    padding:10px;
+    border-radius:10px;
+    margin-top:-55px;
+    margin-left:455px;
+}
+.rent2b{
+    color:white;
+    background:rgb(255,69,0);
+    margin-right:5px;
+    padding:10px;
+    border-radius:10px;
+    margin-top:-5px;
+    margin-left:770px;
+    margin-top:-53px;
+}
+.det1{
+    text-decoration:none;
+}
+.det2{
+    text-decoration:none;
+}
+.img4{
+    margin-top:50px;
+    width:400px;
+    height:300px;
+
+}
+.img5{
+    margin-top:50px;
+    width:400px;
+    height:300px;
+    margin-left:50px;
+
+}
+.rent3{
+    color:white;
+    background:rgb(255,69,0);
+    margin-right:650px;
+    padding:10px;
+    border-radius:10px;
+    margin-top:-5px;
+}
+.rent3b{
+    color:white;
+    background:rgb(255,69,0);
+    margin-right:485px;
+    padding:10px;
+    border-radius:10px;
+    margin-top:-5px;
+    margin-left:290px;
+    margin-top:-53px;
+}
+.rent4{
+    color:white;
+    background:rgb(255,69,0);
+    margin-right:195px;
+    padding:10px;
+    border-radius:10px;
+    margin-top:-55px;
+    margin-left:455px;
+}
+.rent4b{
+    color:white;
+    background:rgb(255,69,0);
+    margin-right:30px;
+    padding:10px;
+    border-radius:10px;
+    margin-top:-5px;
+    margin-left:750px;
+    margin-top:-53px;
+}
+footer{
+    background:black;
+    opacity:0.9;
+    
+    
+}
+h3{
+    color:white;
+    
+}
+.allmenu{
+    padding:20px;
+}
+.firstcont{
+    padding:5px;
+    margin-top:10px;
+  
+    color:white;
+    font-family:sans-serif;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    
+}
+.contactpara{
+    text-align:left;
+    margin-right:1000px;
+    text-align:justify;
+    
+}
+.imgdetail{
+    width:100%;
+    height:100%;
+}
+.pdet{
+    color:white;
+    font-family:sans-serif;
+    font-size: medium;
+    text-align:justify;
+}
+.pdet2{
+    color:white;
+    font-family:sans-serif;
+    font-size: medium;
+    text-align:justify;
+    
+}
+.viewmo{
+    color:blue;
+    text-decoration:none;
+    font-family:sans-serif;
+    font-size: medium;
+    font-weight:bold;
+  
+
+    
+}
+.viediv{
+    text-decoration:none;
+    background:white;
+    border-radius:10px;
+    text-align:center;
+    width:25%;
+    padding:5px;
+}
+.submenu{
+    color:white;
+    text-decoration:none;
+    font-family:sans-serif;
+    font-size: medium;
+    font-weight:bold;
+    margin-left:5%;
+    padding:90px;
+    height:180%;
+    margin-top:-240px;
+  
+}
+.submenu2{
+    color:white;
+    display:flex;
+    
+}
+.aboutfooteri{
+    color:white;
+    text-align: center;
+    justify-content: center;
+    margin-left:450px;
+    font-family:sans-serif;
+    font-size: medium;
+    font-weight:bold;
+    margin-right:300px;
+    text-align:justify;
+    margin-top:-200px;
+
+}
+.twika{
+    color:white;
+}
+.fata{
+    color:white;
+}
+.insta{
+    color:white;
+}
+.ema{
+    color:white;
+}
+.moreread{
+    color:rgb(30,144,255);
+
+}
+.servegroup{
+    color:white;
+    font-family:sans-serif;
+    font-size: medium;
+    font-weight:bold;
+    margin-left:1050px;
+    text-align:justify;
+    margin-right:20px;
+}
+.servelink{
+    color:rgb(30,144,255);
+}
+hr{
+    color:white;
+}
+.coprighti{
+    color:white;
+    text-align:center;
+}
+.cupa{
+    width:15%;
+    height:35%;
+}
+.nal{
+    
+    margin-left:72.5%;
+    height:20%;
+}
+.adv{
+    margin-top:-400px;
+}
+
+
+
+
+
+
+
+
+
+
